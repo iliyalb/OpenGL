@@ -1,3 +1,6 @@
+# OpenGL
+![Sample picture](sample.png?raw=true)
+
 ## Requirements
 CMake 3.x  
 GLFW 3.x  
